@@ -27,7 +27,7 @@ Hi there! I'm <b>Md Muhitul Islam</b>. I'm a passionate Frontend developer with 
 
 
 ## 🌐 Contact:
-Feel free to reach out to me or connect with me on  **[Linkedin](https://www.linkedin.com/in/muhitshimanto/)** or mail me at **muhit.shimanto08@gmail.com**
+Feel free to reach out to me or connect with me on  **[Linkedin](https://www.linkedin.com/in/muhitshimanto/)** or mail me at **muhit.shimanto02@gmail.com**
 
 
 You can also find me on:
