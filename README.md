@@ -11,18 +11,18 @@ Hi there! I'm <b>Md Muhitul Islam</b>. I'm a passionate Frontend developer with 
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**         | [![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)                                                     |
-| **Frontend Technologies** | [![My Skills](https://skillicons.dev/icons?i=react,tailwind,css,html)](https://skillicons.dev)   |
-| **Back-End Development** | [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)                                                    |
-| **Database**          | [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)                                                           |
-| **Design**          | [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)                                                           |
-| **Tools & Platforms** | [![My Skills](https://skillicons.dev/icons?i=git,github,firebase,postman,vscode,netlify,vercel)](https://skillicons.dev)  |
+| **Languages**         | ![My Skills](https://skillicons.dev/icons?i=java,js)                                                     |
+| **Frontend Technologies** | ![My Skills](https://skillicons.dev/icons?i=react,tailwind,css,html)   |
+| **Back-End Development** | ![My Skills](https://skillicons.dev/icons?i=nodejs,express)                                                   |
+| **Database**          | ![My Skills](https://skillicons.dev/icons?i=mongodb)                                                        |
+| **Design**          | ![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)                                                         |
+| **Tools & Platforms** | ![My Skills](https://skillicons.dev/icons?i=git,github,firebase,postman,vscode,netlify,vercel)  |
 
 ## Github Stats
 
-| Top Languages | GitHub Stats | GitHub Streak |
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhitShimanto&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhitShimanto&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhitShimanto&theme=transparent&hide_border=true) |
+| Top Languages |
+|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhitShimanto&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
 
 
 
