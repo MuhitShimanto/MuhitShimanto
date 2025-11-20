@@ -3,7 +3,9 @@
 
 ## About Me 
 
-Hi there! I'm <b>Md Muhitul Islam</b>. I'm a passionate Frontend developer with a strong focus on <b>Full Stack Development</b>. I actively leverage AI-driven workflows to accelerate development cycles, streamline debugging, and maximize overall productivity. Currently, I am expanding my knowledge in Backend and diving deeper into Data Structures & Algorithms to sharpen my problem-solving skills. If you want to learn more about what I do, you can follow me. Outside of coding, I enjoy <b>exploring</b> new things.
+Hi there! I'm <b>Md Muhitul Islam</b>. I'm a passionate Frontend developer with a strong focus on <b>Full Stack Development</b>. I actively leverage <b>AI-driven</b> workflows to accelerate development cycles, streamline debugging, and maximize overall productivity. Currently, I am expanding my knowledge in Backend and diving deeper into <b>Data Structures & Algorithms</b> to sharpen my problem-solving skills.
+
+If you want to learn more about what I do, you can follow me. Outside of coding, I enjoy <b>exploring</b> new things.
 
 
 <h3>When I code, I rely on</h3>
