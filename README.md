@@ -12,11 +12,11 @@ Hi there! I'm <b>Md Muhitul Islam</b>. I'm a passionate Frontend developer with 
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**         | ![My Skills](https://skillicons.dev/icons?i=java,js)                                                     |
-| **Frontend Technologies** | ![My Skills](https://skillicons.dev/icons?i=react,tailwind,css,html)   |
-| **Back-End Development** | ![My Skills](https://skillicons.dev/icons?i=nodejs,express)                                                   |
+| **Languages**         | ![My Skills](https://skillicons.dev/icons?i=java,ts,js)                                                     |
+| **Frontend Technologies** | ![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,css,html)   |
+| **Back-End Development** | ![My Skills](https://skillicons.dev/icons?i=express,nodejs)                                                   |
 | **Database**          | ![My Skills](https://skillicons.dev/icons?i=mongodb)                                                        |
-| **Design**          | ![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)                                                         |
+| **Design**          | ![My Skills](https://skillicons.dev/icons?i=figma,ai,ps)                                                         |
 | **Tools & Platforms** | ![My Skills](https://skillicons.dev/icons?i=git,github,firebase,postman,vscode,netlify,vercel)  |
 
 ## Github Stats
