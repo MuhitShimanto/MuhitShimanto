@@ -15,7 +15,8 @@ Hi there! I'm <b>Md Muhitul Islam</b>. I'm a passionate Full Stack Developer wit
 | **Languages**         | ![My Skills](https://skillicons.dev/icons?i=java,js)                                                     |
 | **Frontend Technologies** | ![My Skills](https://skillicons.dev/icons?i=next,react,ts,tailwind,css,html)   |
 | **Backend Development** | ![My Skills](https://skillicons.dev/icons?i=express,nodejs)                                                   |
-| **Database**          | ![My Skills](https://skillicons.dev/icons?i=mongodb)                                                        |
+| **Database**          | ![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)                                                        |
+| **ORM**          | ![My Skills](https://skillicons.dev/icons?i=prisma)                                                        |
 | **Design**          | ![My Skills](https://skillicons.dev/icons?i=figma,ai,ps)                                                         |
 | **Tools & Platforms** | ![My Skills](https://skillicons.dev/icons?i=git,github,firebase,postman,vscode,netlify,vercel)  |
 
